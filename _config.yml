@@ -1,20 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Margaux Brennan # your name (or website title) here
+logo: "/images/IMG_0661.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Edit these links below   
+  
+  <a href="https://www.linkedin.com/in/margaux-brennan/" class="btn btn--info">LinkedIn</a>
   <br>
-  in _config.yml 
-  <br><br>
-  <a href="https://www.linkedin.com/in/donbowen-lehigh/">LinkedIn</a> 
+  <a href="/pdf/Resume June 2022.docx.pdf" class="btn btn--info">Resume</a>  
   <br>
-  <a href="https://bowen.finance/cv/" class="btn btn--info">Resume</a>  
-  <br>
-  <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">GitHub</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Twitter</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Youtube</a> 
+  <a href="https://github.com/mab923" class="btn btn--info">Github</a>
+   <br>
   
 theme: jekyll-theme-minimal

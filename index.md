@@ -7,7 +7,7 @@ I am an awesome student at Lehigh, you should hire me!
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/mab923/mab923.github.io/raw/master/images/IMG_0661.JPG.png" width="50%">
+  <img class="img-circle" src="/images/IMG_0661.JPG.png" width="50%">
 </p>
 
 ---
@@ -16,7 +16,7 @@ I am an awesome student at Lehigh, you should hire me!
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Sentiment Analysis on 10Ks](midterm_summary)**_
+_**[Sentiment Analysis on 10Ks](midterm_summary.md)**_
  
  In our midterm we examined the 10ks of S&P 500 companies to determine if dicussion of positive or negative words surrounding words that were identifued as being related to three chosen variables (debt, out sourcing, and regulations). We then examined the stock returns in the days after the release of the 10-Ks to see if the sentiment around the dicussion of these factors had any correlation with stock returns.
 

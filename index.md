@@ -1,8 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+My name is Marguax Brennan and I am a senioar in the Lehigh School of Business graduating this coming May! I Major in Finance and have a minor in Business Information Systems and History. This past summer I was a Risk and Financial Analyis intern at Deloitte in Stamford, CT where I worked as a Technology Specialist. This fall I plan to rejoin Deloitte in their RFA Practice, in my new role as a Business Valuation Analyst.
 
 ---
 
@@ -40,15 +38,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I am looking to pursue a career in Finance! Currently, I am comitted to join the consulting industry upon graduation and am excited about the opportunities this career path will afford me. Other potenital sectors that interest me indlude financial services, wealth mangement, and investment banking!
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Some hobbies I enjoy partcipaiting in my free time include runnning, baking, needlepointing, reading, and traveling!
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

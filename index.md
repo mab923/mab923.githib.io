@@ -16,9 +16,9 @@ _**[Sentiment Analysis on 10Ks](Midterm)**_
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Practice](regression.md)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+An example of my abilities in creatin regressions and interpreting their results.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 

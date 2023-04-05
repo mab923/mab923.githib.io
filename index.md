@@ -30,7 +30,6 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ---
 
-
 ## Career Objectives
 
 I am looking to pursue a career in Finance! Currently, I am comitted to join the consulting industry upon graduation and am excited about the opportunities this career path will afford me. Other potenital sectors that interest me indlude financial services, wealth mangement, and investment banking!

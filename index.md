@@ -8,7 +8,7 @@ My name is Marguax Brennan and I am a senioar in the Lehigh School of Business g
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Sentiment Analysis on 10Ks](midterm)**_
+_**[Sentiment Analysis on 10Ks](Midterm)**_
  
  In our midterm we examined the 10ks of S&P 500 companies to determine if dicussion of positive or negative words surrounding words that were identifued as being related to three chosen variables (debt, out sourcing, and regulations). We then examined the stock returns in the days after the release of the 10-Ks to see if the sentiment around the dicussion of these factors had any correlation with stock returns.
 

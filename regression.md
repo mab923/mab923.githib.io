@@ -1,9 +1,8 @@
-```python
-
 ---
 layout: wide_default
 ---
 
+```python
 import pandas as pd
 from statsmodels.formula.api import ols as sm_ols
 import numpy as np

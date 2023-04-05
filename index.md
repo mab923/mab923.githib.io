@@ -30,11 +30,11 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+#_**[Some personal project](/pdf/sample_presentation.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+#---
 
 ## Career Objectives
 

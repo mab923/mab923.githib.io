@@ -16,7 +16,7 @@ _**[Sentiment Analysis on 10Ks](Midterm)**_
 
 ---
 
-_**[Regression Practice](regression.md)**_
+_**[Regression Practice](regression)**_
 
 An example of my abilities in creatin regressions and interpreting their results.
 

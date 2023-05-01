@@ -12,7 +12,6 @@ _**[Sentiment Analysis on 10Ks](Midterm)**_
  
  In our midterm we examined the 10ks of S&P 500 companies to determine if dicussion of positive or negative words surrounding words that were identifued as being related to three chosen variables (debt, out sourcing, and regulations). We then examined the stock returns in the days after the release of the 10-Ks to see if the sentiment around the dicussion of these factors had any correlation with stock returns.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -20,15 +19,13 @@ _**[Regression Practice](regression)**_
 
 An example of my abilities in creatin regressions and interpreting their results.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 _**[Final Team Project](mab923.github.io/finalteamproject/)**_
 
 In my final group project we examined the correlation between changes in monetary policy and market performance. We have chosen to inspect this through the lense of changes in the Reserve Requirement by the Federal Open Market Committee (FOMC) and returns from the S&P 500, Vanguard Long-Term Bond Index Fund CHANGE and Vanguard Short-Term Bond Index Fund Admiral Shares (VBIRX).
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/download.png?raw=true"/>
 
 ---
 
@@ -40,7 +37,7 @@ I am looking to pursue a career in Finance! Currently, I am comitted to join the
 
 ## Hobbies
 
-Some hobbies I enjoy partcipaiting in my free time include runnning, baking, needlepointing, reading, and traveling!
+Some hobbies I enjoy participating in my free time include runnning, baking, needlepointing, reading, and traveling!
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

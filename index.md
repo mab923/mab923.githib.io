@@ -21,9 +21,9 @@ An example of my abilities in creatin regressions and interpreting their results
 
 ---
 
-_**[Final Team Project](mab923.github.io/finalteamproject/)**_
+_**[Final Team Project]([(https://mab923.github.io/finalteamproject/])**_
 
-In my final group project we examined the correlation between changes in monetary policy and market performance. We have chosen to inspect this through the lense of changes in the Reserve Requirement by the Federal Open Market Committee (FOMC) and returns from the S&P 500, Vanguard Long-Term Bond Index Fund CHANGE and Vanguard Short-Term Bond Index Fund Admiral Shares (VBIRX).
+In my final group project we examined the correlation between changes in monetary policy and market performance. We have chosen to inspect this through the lense of changes in the Reserve Requirement by the Federal Open Market Committee (FOMC) and returns from the S&P 500, Vanguard Intermediate-Term Bond Index Fund (VBILX) and Vanguard Short-Term Bond Index Fund Admiral Shares (VBIRX).
 
 <img src="images/download.png?raw=true"/>
 

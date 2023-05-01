@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Marguax Brennan and I am a senioar in the Lehigh School of Business graduating this coming May! I Major in Finance and have a minor in Business Information Systems and History. This past summer I was a Risk and Financial Analyis intern at Deloitte in Stamford, CT where I worked as a Technology Specialist. This fall I plan to rejoin Deloitte in their RFA Practice, in my new role as a Business Valuation Analyst.
+My name is Marguax Brennan and I am a senior in the Lehigh School of Business graduating this coming May! I Major in Finance and have a minor in Business Information Systems and History. This past summer I was a Risk and Financial Analyis intern at Deloitte in Stamford, CT where I worked as a Technology Specialist. This fall I plan to rejoin Deloitte in their RFA Practice, in my new role as a Business Valuation Analyst.
 
 ---
 
